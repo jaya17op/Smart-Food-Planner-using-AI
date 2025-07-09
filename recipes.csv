@@ -1,0 +1,51 @@
+recipe_id,meal_type,cuisine,ingredients,tags,popularity_score
+101,breakfast,Mexican,"pasta, tofu, spinach","gluten-free, balanced",4.5
+102,lunch,Indian,"beans, tofu, egg","balanced, gluten-free",4.7
+103,breakfast,Indian,"soy sauce, tofu, avocado","vegan, keto",4.4
+104,breakfast,Italian,"avocado, chicken, spinach","protein-rich, keto",4.6
+105,lunch,Mexican,"rice, soy sauce, spinach","protein-rich, balanced",4.9
+106,breakfast,Mexican,"rice, spinach, beans","keto, dairy-free",3.7
+107,dinner,Indian,"pasta, beans, spinach","balanced, vegetarian",4.0
+108,lunch,Indian,"spinach, tofu, avocado","protein-rich, keto",3.7
+109,breakfast,Chinese,"lentils, spinach, beans","keto, gluten-free",4.6
+110,breakfast,Indian,"avocado, tofu, lentils","keto, protein-rich",4.8
+111,lunch,Mexican,"beans, soy sauce, cheese","keto, vegetarian",3.8
+112,breakfast,Chinese,"rice, avocado, egg","dairy-free, vegan",3.9
+113,lunch,Indian,"beans, chicken, soy sauce","vegan, keto",3.8
+114,lunch,Italian,"spinach, tofu, chicken","gluten-free, protein-rich",4.9
+115,dinner,Chinese,"rice, egg, spinach","balanced, dairy-free",4.6
+116,lunch,Italian,"lentils, chicken, soy sauce","vegetarian, vegan",4.7
+117,breakfast,Mexican,"tofu, cheese, chicken","dairy-free, gluten-free",4.7
+118,breakfast,Indian,"beans, soy sauce, spinach","keto, vegan",4.1
+119,dinner,Mexican,"spinach, lentils, soy sauce","balanced, protein-rich",4.0
+120,dinner,Italian,"rice, spinach, lentils","balanced, keto",3.5
+121,lunch,Indian,"lentils, chicken, tofu","gluten-free, balanced",4.0
+122,dinner,Italian,"lentils, tofu, soy sauce","keto, dairy-free",4.2
+123,dinner,Italian,"cheese, soy sauce, lentils","dairy-free, gluten-free",3.7
+124,lunch,Chinese,"egg, lentils, spinach","keto, dairy-free",3.6
+125,dinner,Italian,"avocado, beans, spinach","balanced, vegetarian",3.8
+126,breakfast,Mexican,"egg, cheese, chicken","protein-rich, vegetarian",3.6
+127,lunch,Indian,"lentils, avocado, spinach","balanced, gluten-free",3.9
+128,dinner,Italian,"soy sauce, spinach, pasta","balanced, dairy-free",4.9
+129,dinner,Chinese,"spinach, cheese, chicken","keto, protein-rich",4.8
+130,breakfast,Indian,"spinach, soy sauce, egg","balanced, vegetarian",4.4
+131,dinner,Chinese,"chicken, egg, tofu","balanced, keto",3.8
+132,lunch,Italian,"egg, beans, lentils","protein-rich, balanced",3.6
+133,breakfast,Italian,"tofu, cheese, lentils","vegetarian, keto",4.6
+134,breakfast,Chinese,"cheese, rice, tofu","vegetarian, vegan",4.3
+135,lunch,Chinese,"chicken, soy sauce, beans","keto, gluten-free",4.2
+136,dinner,Italian,"soy sauce, tofu, spinach","gluten-free, vegetarian",4.4
+137,breakfast,Mexican,"lentils, tofu, beans","dairy-free, keto",4.2
+138,breakfast,Chinese,"rice, cheese, spinach","dairy-free, balanced",4.2
+139,dinner,Chinese,"beans, cheese, spinach","balanced, vegan",4.1
+140,lunch,Italian,"beans, cheese, rice","dairy-free, balanced",4.9
+141,dinner,Indian,"rice, soy sauce, chicken","vegan, gluten-free",4.4
+142,breakfast,Italian,"soy sauce, spinach, chicken","dairy-free, balanced",4.2
+143,dinner,Indian,"beans, avocado, chicken","vegan, dairy-free",4.1
+144,lunch,Chinese,"avocado, beans, chicken","vegetarian, balanced",3.5
+145,breakfast,Italian,"egg, pasta, beans","vegan, vegetarian",4.9
+146,dinner,Indian,"avocado, pasta, egg","vegan, vegetarian",3.8
+147,breakfast,Indian,"egg, avocado, cheese","keto, protein-rich",4.9
+148,lunch,Indian,"spinach, pasta, avocado","gluten-free, dairy-free",4.9
+149,lunch,Italian,"spinach, egg, rice","vegan, protein-rich",3.8
+150,breakfast,Chinese,"spinach, rice, chicken","vegetarian, balanced",4.2
